@@ -2,6 +2,10 @@
 
 This project demonstrates a sharded MySQL database architecture with a FastAPI backend and Python client. It shows how to implement database sharding - a technique that distributes data across multiple database instances to improve scalability and performance.
 
+## Illustration
+
+![Sharding Architecture](./extra/illustration.drawio.png)
+
 ### Overview
 
 This project implements a simple user management service that demonstrates horizontal database sharding. It includes:
